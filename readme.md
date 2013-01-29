@@ -19,7 +19,7 @@ and construct a table (csv) that can be used for manipulation in various other e
 
     01-30-2013 05:00; PM2.5; 52.0; 128; Unhealthy for Sensitive Groups (at 24-hour exposure at this level)
 
-### What are we interested in
+### We are interested in...
 
     date_time = "01-30-2013 05:00"
     pm_25 = "52.0"
