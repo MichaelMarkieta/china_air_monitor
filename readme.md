@@ -27,7 +27,7 @@ and construct a table (csv) that can be used for manipulation in various other e
 
 # Why?
 
-I am particularly interested in exploring the spatial-temporal aspect of this PM2.5 toxity data.
+I am particularly interested in exploring the spatial-temporal aspect of this PM2.5 toxicity data.
 By examing the four Chinese cities, their hourly reports, and the spread of PM2.5 particulate matter,
 we can construct a geovisual analyses to better understand how particulate matter is distributed over
 China's developed regions over time (throughout the day and night).
